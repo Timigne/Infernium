@@ -1,0 +1,16 @@
+[
+{
+  "modid": "infernium",
+  "name": "Infernium",
+  "description": "Mod de base d'infernium",
+  "version": "${1.0.0}",
+  "mcversion": "${1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tigi on Yt"],
+  "credits": "minecraftforgefrance and ama for help me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
